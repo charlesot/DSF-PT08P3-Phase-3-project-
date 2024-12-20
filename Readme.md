@@ -1,5 +1,5 @@
  DSF-PT08P3- Phase 3 project 
-# SyriaTel Project: Reducing Customer Churn Through Predictive Analysis# 
+# SyriaTel Project: Reducing Customer Churn Through Predictive Analysis 
 
 ## 1. Project Overview
 SyriaTel is a telecommunication company that is interested in reducing the number of customer churn/attrition to reduce loss of revenue. The project will enable the reduction of churn through analytics of historical data and the development of machine learning models to predict customers who are likely to churn and develop a mitigation strategy. The analysis involves data understanding, data cleaning, preprocessing, building predictive models, evaluating their performance, and visualizing key insights. The logistic Regression model is used as a base model. Other models used are Decision tree, XGBoost, and Random forest.   
@@ -9,7 +9,7 @@ Telecom companies experience customer churn/attrition when customers voluntarily
 * Analytics of churn will provide insights into why customers churn and identify customers who are likely to leave so that a targeted strategy can be developed to convince them to stay. 
 * The Stakeholder audience for the project is SyriaTel telecommunication company executives from the marketing, sales, and innovations departments.
 
-** Main Objective**
+** Main Objective
 * Predict which customers are likely to churn 
 **Secondary objectives**
 * preprocess churn data
