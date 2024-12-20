@@ -44,8 +44,8 @@ Churn; If the customer has churned (1 = yes; 0 = no)
 ### How analysis is run
 #### prerequisites 
 * Python 3.8 +
-* Import the following libraries
-
+  
+#### Import the following libraries
 - import pandas as pd
 - import seaborn as sns
 - import matplotlib.pyplot as plt
@@ -61,7 +61,7 @@ Churn; If the customer has churned (1 = yes; 0 = no)
 - from xgboost import XGBClassifier
 - from sklearn.metrics import roc_auc_score, roc_curve, precision_recall_curve, accuracy_score, confusion_matrix, classification_report
 
- * load the data set or clone it (https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
+##### load the data set or clone it (https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
     
 ### Exploratory data analysis 
 * Checked for missing values and duplications
