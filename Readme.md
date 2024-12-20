@@ -9,7 +9,7 @@ Telecom companies experience customer churn/attrition when customers voluntarily
 * Analytics of churn will provide insights into why customers churn and identify customers who are likely to leave so that a targeted strategy can be developed to convince them to stay. 
 * The Stakeholder audience for the project is SyriaTel telecommunication company executives from the marketing, sales, and innovations departments.
 
-** Main Objective
+### Main Objective
 * Predict which customers are likely to churn 
 **Secondary objectives**
 * preprocess churn data
