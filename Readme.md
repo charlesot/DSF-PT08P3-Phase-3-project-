@@ -46,20 +46,20 @@ Churn; If the customer has churned (1 = yes; 0 = no)
 * Python 3.8 +
 * Import the following libraries
 
-- import pandas as pd 
- import seaborn as sns 
- import matplotlib.pyplot as plt
-import numpy as np
-from sklearn import preprocessing
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.preprocessing import StandardScaler
-from imblearn.over_sampling import SMOTE
-from sklearn.model_selection import train_test_split, GridSearchCV, cross_val_score
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier, plot_tree
-from sklearn.ensemble import RandomForestClassifier
-from xgboost import XGBClassifier
-from sklearn.metrics import roc_auc_score, roc_curve, precision_recall_curve, accuracy_score, confusion_matrix, classification_report
+- import pandas as pd
+- import seaborn as sns
+- import matplotlib.pyplot as plt
+- import numpy as np
+- from sklearn import preprocessing
+- from sklearn.preprocessing import OneHotEncoder
+- from sklearn.preprocessing import StandardScaler
+- from imblearn.over_sampling import SMOTE
+- from sklearn.model_selection import train_test_split, GridSearchCV, cross_val_score
+- from sklearn.linear_model import LogisticRegression
+- from sklearn.tree import DecisionTreeClassifier, plot_tree
+- from sklearn.ensemble import RandomForestClassifier
+- from xgboost import XGBClassifier
+- from sklearn.metrics import roc_auc_score, roc_curve, precision_recall_curve, accuracy_score, confusion_matrix, classification_report
 
  * load the data set or clone it (https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
     
