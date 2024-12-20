@@ -10,8 +10,9 @@ Telecom companies experience customer churn/attrition when customers voluntarily
 * The Stakeholder audience for the project is SyriaTel telecommunication company executives from the marketing, sales, and innovations departments.
 
 ### Main Objective
-* Predict which customers are likely to churn 
-**Secondary objectives**
+* Predict which customers are likely to churn
+  
+#### Secondary objectives
 * preprocess churn data
 * Train and evaluate multiple classification models
 * Visualise the evaluations and feature importance
