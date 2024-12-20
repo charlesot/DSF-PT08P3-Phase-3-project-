@@ -1,4 +1,5 @@
 DSF-PT08P3- Phase 3 project 
+SyriaTel Project : Reducing customer Churn Through Predictive Analysis 
 
 1. Project overview
 SyriaTel is telecommunication company that is interested in reducing the number of customer churn/attrition to reduce loss of revenue. The project will enable the reduction of churn through analytics of historical data and development of machine learning models to predict customers who are likely to churn and develop a mitigation strategy.
