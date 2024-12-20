@@ -46,7 +46,7 @@ Churn; If the customer has churned (1 = yes; 0 = no)
 * Python 3.8 +
 * Import the following libraries
 
-  import pandas as pd 
+- import pandas as pd 
  import seaborn as sns 
  import matplotlib.pyplot as plt
 import numpy as np
